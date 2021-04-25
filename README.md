@@ -1,2 +1,3 @@
 # QA-Auto
-charp
+**There are different tasks.
+*Charp programs.
